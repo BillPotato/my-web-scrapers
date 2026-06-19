@@ -1,0 +1,3 @@
+[submodule "documentation_rag_scraper"]
+	path = documentation_rag_scraper
+	url = https://github.com/Davii-Ng/spidr.git
